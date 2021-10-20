@@ -1,0 +1,85 @@
+
+.nav-link {
+    color:black;
+}
+
+.obalenie {
+    width:100%;
+    text-align: center;
+}
+
+.navbar-brand {
+    color:black;
+}
+
+
+.vrch {
+    height:500px;
+    background-color: #0191C8;
+}
+.nadpis {
+    padding-top:200px;
+}
+
+button {
+    margin-top:40px;
+    width:120px;
+}
+
+.row1 {
+    height:670px;
+    background-color: #F53264;
+    border-top: 1px solid white;
+}
+.osoba {
+    text-align:center;
+    margin-top: -70px;
+}
+
+.osoba img {
+    width: 200px;
+    border-radius: 50%;
+    height:auto;
+}
+
+.biele-pismo{
+    color:white;
+}
+
+.lavy {
+    padding-left: 10%;
+}
+
+.pravy {
+    padding-right: 10%;
+}
+
+.row1 h1 {
+    text-align: center;
+    padding-top:100px;
+}
+
+h3 {
+    padding-top: 15px;
+}
+
+p {
+    padding-top: 30px;
+}
+
+
+
+@media (max-width: 576px) {
+    .row1 {
+        height:1000px;
+    }
+    .lavy {
+        padding-left: 0;
+    }
+    .pravy {
+        padding-right: 0;
+    }
+    .osoba {
+        margin-top: 0;
+    }
+}
