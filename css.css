@@ -12,6 +12,13 @@
     color:black;
 }
 
+.logo {
+    padding-top: 4px;
+}
+
+.logo img {
+    padding-top: 5px;
+}
 
 .vrch {
     height:500px;
